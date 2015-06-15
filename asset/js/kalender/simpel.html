@@ -1,0 +1,31 @@
+<html style="background-color: buttonface; color: buttontext;">
+
+<head>
+<meta http-equiv="content-type" content="text/xml; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" media="all" href="calendar-green.css"/>
+  <script type="text/javascript" src="calendar.js"></script>
+  <script type="text/javascript" src="lang/calendar-en.js"></script>
+  <script type="text/javascript" src="calendar-setup.js"></script>
+  
+</head>
+
+<body>
+<form action="#" method="get">
+<input type="text" name="date" id="f_date_a" />
+</form>
+
+<script type="text/javascript">
+    function catcalc(cal) {
+        var date = cal.date;
+        var time = date.getTime()
+    }
+    Calendar.setup({
+        inputField     :    "f_date_a",   // id of the input field
+        ifFormat       :    "%Y-%m-%d %H:%M",       // format of the input field
+        showsTime      :    true,
+        timeFormat     :    "24",
+        onUpdate       :    catcalc
+    });
+
+</script>
+</body>
