@@ -14,6 +14,7 @@ Aplikasi SISKO yang merupakan kependekan dari Sistem InformaSi seKOlah.
 2. jQuery
 
 #Versi 1.0 (Free version - Juni 2015)
+Modul-modul yang tersedia : 
 - Data Profil Sekolah
 - Data Buku Induk Siswa (Data Siswa)
 - Data Guru dan Karyawan
