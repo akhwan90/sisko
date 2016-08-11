@@ -1,9 +1,9 @@
 # SISKO - Sistem InformaSi seKOlah
 
 
-Lihat penjelasannya di blog Nur Akhwan ==> (http://nur-akhwan.blogspot.com/2012/11/sistem-informasi-sekolah-berbasis-web.html)
+Lihat penjelasannya di blog Nur Akhwan ==> (http://nur-akhwan.web.id/2012/11/sistem-informasi-sekolah-berbasis-web.html)
 
-Link Demo di http://nur-akhwan.web.id/demo/sisko/
+Link Demo di http://infosa-media.net/demo/sisko/
 
 
 #Deskripsi
