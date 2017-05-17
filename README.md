@@ -3,9 +3,6 @@
 
 Lihat penjelasannya di blog Nur Akhwan ==> (http://nur-akhwan.web.id/2012/11/sistem-informasi-sekolah-berbasis-web.html)
 
-Link Demo di http://infosa-media.net/demo/sisko/
-
-
 #Deskripsi
 Aplikasi SISKO yang merupakan kependekan dari Sistem InformaSi seKOlah. 
 
