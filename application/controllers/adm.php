@@ -1023,6 +1023,7 @@ class Adm extends CI_Controller {
 			$adm['inv'] 		= $this->adm_model->getAll('ti_invent ORDER BY kd_brg, no_aset');
 			$this->load->view('adm/v_no_tanah_bgn', $adm);
 		} else if ($ke == "add") {	
+			$adm['ruang']		= $this->adm_model->getAll('ti_ruang');
 			$adm['inv'] 		= $this->adm_model->getAll('ti_invent ORDER BY kd_brg, no_aset');
 			$this->load->view('adm/f_no_tanah_bgn', $adm);
 		} else if ($ke == "act_add") {
